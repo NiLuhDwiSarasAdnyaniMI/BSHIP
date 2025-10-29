@@ -111,3 +111,7 @@ for turn in range(MAX_ATTEMPTS):
 if hits < total_parts:
     print(" Kesempatan habis! Ini posisi kapal sebenarnya:")
     show_board(board)
+
+
+
+    print('hello')
